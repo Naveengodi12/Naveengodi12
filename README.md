@@ -1,14 +1,20 @@
 <h1 align="center">Hi 👋, I'm Naveen Godi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveengodi12&label=Profile%20views&color=0e75b6&style=flat" alt="naveengodi12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/naveen godi" target="blank"><img src="https://img.shields.io/twitter/follow/naveen godi?logo=twitter&style=for-the-badge" alt="naveen godi" /></a> </p>
 
+- 🔭 I’m currently Passionate Fresher **Eager to Learn and Grow**
+
+- 🌱 I’m currently learning **Python**
+
 - 💬 Ask me about **Java,Html,CSS,ReactJS,Javascript**
 
 - 📫 How to reach me **naveengodi16@gmail.com**
+
+- ⚡ Fun fact **Mech to Tech 🖥️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +29,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveengodi12&show_icons=true&locale=en&layout=compact" alt="naveengodi12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveengodi12&" alt="naveengodi12" /></p>
-
